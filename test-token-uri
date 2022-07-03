@@ -1,9 +1,6 @@
 {
-  "name": "Whitelist Testing",
-  "symbol": "WTSF",
-  "description": "100% Royalties",
-  "seller_fee_basis_points": 1000,
-  "image": "https://raw.githubusercontent.com/monstadao/logo/main/logo.png",
-  "external_url": "https://google.com",
-  "properties": { "category": "image", "files": [{}] }
+  "name": "A test token",
+  "symbol": "TEST",
+  "description": "Fully for testing purposes only",
+  "image": "https://token-creator-lac.vercel.app/token_image.png"
 }
