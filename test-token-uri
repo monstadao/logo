@@ -3,7 +3,7 @@
   "symbol": "WTSF",
   "description": "100% Royalties",
   "seller_fee_basis_points": 1000,
-  "image": "https://www.arweave.net/oG9hJ62vHL4wErjyCMWXZTC0aRadLjhN80nvz88g8K8?ext=jpg",
+  "image": "https://raw.githubusercontent.com/monstadao/logo/main/logo.png",
   "external_url": "https://google.com",
   "properties": { "category": "image", "files": [{}] }
 }
